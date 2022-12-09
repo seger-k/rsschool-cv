@@ -1,2 +1,2 @@
 # rsschool-cv
-rsschool public repository
+https://seger-k.github.io/rsschool-cv/cv
